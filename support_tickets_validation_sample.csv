@@ -1,0 +1,15 @@
+ticket_id,ticket_text,category,urgency,sentiment
+TCK002,The app crashes every time I try to upload a photo larger than 5MB. This started after the latest update.,Technical Issue,High,Negative
+TCK003,I can't log into my account. It says my password is incorrect but I'm sure I'm typing it right.,Account Access,High,Negative
+TCK006,What are your business hours for phone support on weekends?,General Inquiry,Low,Neutral
+TCK008,"Every time I click 'export report' the page just freezes. I've tried on Chrome and Firefox, same result.",Technical Issue,Medium,Negative
+TCK013,"Just wanted to say the new update is fantastic, the search feature is so much faster now. Thank you!",General Inquiry,Low,Positive
+TCK014,I need to reset my two-factor authentication because I lost my old phone and can't receive the codes anymore.,Account Access,High,Neutral
+TCK015,My invoice this month shows a 'processing fee' I've never seen before. Can someone explain what that is?,Billing,Medium,Neutral
+TCK016,The API has been returning 500 errors intermittently since yesterday around 3pm UTC. Our integration is failing.,Technical Issue,Critical,Negative
+TCK017,Could you add the ability to schedule recurring reports to be emailed weekly?,Feature Request,Low,Neutral
+TCK018,I've emailed support three times over the past week with no response at all. I'm getting really frustrated.,Complaint,High,Negative
+TCK019,Is there a way to merge two duplicate customer profiles in my account?,General Inquiry,Medium,Neutral
+TCK023,"Can you tell me why my account was downgraded automatically, and also how do I get a refund for the difference?",Billing,Medium,Negative
+TCK027,"My team can't access the shared workspace anymore since the plan change - is this expected, and how do we fix it?",Account Access,High,Negative
+TCK028,"We'd like a bulk import feature, and in the meantime can support help us import 2,000 records manually?",Feature Request,Medium,Neutral
